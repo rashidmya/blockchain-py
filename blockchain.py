@@ -1,5 +1,4 @@
 # import da gary
-from crypt import methods
 import datetime
 import hashlib
 import json
